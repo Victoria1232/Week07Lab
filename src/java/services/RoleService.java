@@ -18,7 +18,7 @@ import models.User;
 
 /**
  *
- * @author mfgperez
+ * @author Victo
  */
 public class RoleService {
     
