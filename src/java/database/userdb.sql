@@ -4,8 +4,8 @@
  * and open the template in the editor.
  */
 /**
- * Author:  mfgperez
- * Created: Jul 6, 2023
+ * Author:  Victo
+ * Created: Jul 8, 2023
  */
 DROP SCHEMA IF EXISTS `userdb`;
 CREATE SCHEMA IF NOT EXISTS `userdb` DEFAULT CHARACTER SET latin1;
