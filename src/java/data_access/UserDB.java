@@ -11,7 +11,7 @@ import services.RoleService;
 
 /**
  *
- * @author mfgperez
+ * @author Victo
  */
 public class UserDB {
 
