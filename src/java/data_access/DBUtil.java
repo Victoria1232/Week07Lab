@@ -11,7 +11,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author mfgperez
+ * @author Victo
  */
 public class DBUtil {
     
