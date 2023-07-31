@@ -13,7 +13,7 @@ import models.Role;
 
 /**
  *
- * @author mfgperez
+ * @author Victo
  */
 public class RoleDB {
     
