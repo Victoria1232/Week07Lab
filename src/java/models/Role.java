@@ -7,7 +7,7 @@ package models;
 
 /**
  *
- * @author mfgperez
+ * @author Victo
  */
 public class Role {
     
